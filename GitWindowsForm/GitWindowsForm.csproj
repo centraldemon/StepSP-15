@@ -52,13 +52,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Entity\EFContext.cs" />
     <Compile Include="Entity\Role.cs" />
     <Compile Include="Entity\User.cs" />
-=======
     <Compile Include="Category.cs" />
->>>>>>> 582eb3858aeb57ca1687dbf91521d04e311193e5
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
